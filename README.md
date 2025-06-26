@@ -13,4 +13,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zleandro&show_icons=true&locale=en" alt="zleandro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zleandro&" alt="zleandro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zLeandro&" alt="zLeandro" /></p>
