@@ -61,5 +61,5 @@ Olá! Sou o Leandro e sempre fui apaixonado por tecnologia. Foi essa paixão que
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=zleandro&theme=default" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=zleandro&theme=tokyonight" alt="GitHub Streak" />
 </p>
