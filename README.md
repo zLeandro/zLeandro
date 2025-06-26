@@ -8,8 +8,11 @@ Olá! Sou o Leandro e sempre fui apaixonado por tecnologia. Foi essa paixão que
 
 ### 🌐 Conecte-se comigo:
 <p align="left">
-  <a href="https://www.linkedin.com/in/leandrowalter-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/leandrowalter-dev/" target="_blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:leandromarqueswalter@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
