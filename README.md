@@ -7,14 +7,29 @@ Olá! Sou o Leandro e sempre fui apaixonado por tecnologia. Foi essa paixão que
 ---
 
 ### 🌐 Conecte-se comigo:
-<p align="left" style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://www.linkedin.com/in/leandrowalter-dev/" target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:leandromarqueswalter@gmail.com" target="_blank" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" style="color: #D14836; fill: #D14836;" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/leandrowalter-dev/" target="_blank">
+  <img 
+    align="left" 
+    alt="LinkedIn"
+    title="LinkedIn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+  />
+</a>
+
+<a href="mailto:leandromarqueswalter@gmail.com" target="_blank">
+  <img 
+    align="left" 
+    alt="Email"
+    title="Email" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+  />
+</a>
+
+<br /><br />
 
 ---
 
