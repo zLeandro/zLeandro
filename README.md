@@ -1,3 +1,4 @@
+<h1 align="center">👨🏻‍💻 Leandro Walter</h1>
 <h3 align="center">Olá! Sou o Leandro e sempre fui apaixonado por tecnologia. Foi essa paixão que me levou a iniciar minha jornada no mundo da programação. Atualmente, estou me especializando em Desenvolvimento Full Stack com Python, aprendendo a construir aplicações completas, do back-end ao front-end. Estou em constante aprendizado e empolgado para aplicar meus conhecimentos em projetos reais e colaborar com a comunidade dev.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
