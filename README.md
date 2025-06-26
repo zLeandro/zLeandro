@@ -15,41 +15,101 @@ Olá! Sou o Leandro e sempre fui apaixonado por tecnologia. Foi essa paixão que
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-</p>
+### 🛠️ Tecnologias e Ferramentas
 
----
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+/>
+<img
+    align="left"
+    alt="Django"
+    title="Django"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://cdn.worldvectorlogo.com/logos/django.svg"
+/>
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="Bootstrap"
+    title="Bootstrap"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Postman"
+    title="Postman"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+/>
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Nginx"
+    title="Nginx"
+    width="40"
+    height="40"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+/>
+
+<br />
+<br />
 
 ### 📊 GitHub Stats:
 <p>
